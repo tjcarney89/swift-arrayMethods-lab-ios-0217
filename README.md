@@ -5,9 +5,9 @@
 
 > When someone tells me "no," it doesn't mean I can't do it, it simply means I can't do it with them. -[Karen E. Quinones Miller](https://en.wikipedia.org/wiki/Karen_E._Quinones_Miller)
 
-## Learning Objectives
+## Overview
 
-* Use the following methods on arrays:
+In this lab, you'll use the following methods on arrays:
 	* `append()`
 	* `insert(_:atIndex:)`
 	* `removeAtIndex()`
