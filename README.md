@@ -8,13 +8,13 @@
 ## Overview
 
 In this lab, you'll use the following methods on arrays:
-	* `append()`
-	* `insert(_:atIndex:)`
-	* `removeAtIndex()`
-	* *subscript syntax* with arrays
-	* `count`
-	* `isEmpty`
-	
+* `append()`  
+* `insert(_:at:)`  
+* `remove(at:)`  
+* *subscript syntax* with arrays  
+* `count`  
+* `isEmpty`  
+
 ## Instructions
 
 * Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
